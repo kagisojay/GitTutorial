@@ -1,4 +1,3 @@
 # GitTutorial
 welcome to the GitTutorial
-
-another change
+Git tutorial quite intresting
